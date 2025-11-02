@@ -6,8 +6,8 @@
 
   - How to use
     1. Download file expense_gui.py
-    2. Download module by ```python3 -m venv venv\n
-                             source venv/bin/activate\n
+    2. Download module by ```python3 -m venv venv<br>
+                             source venv/bin/activate\n<br>
                              pip3 install -r requirements.txt
                          ```
     3. Execute python file by ```python3 expense_gui.py```
