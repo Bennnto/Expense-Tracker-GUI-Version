@@ -15,5 +15,6 @@
 
   ## What you will get from this program
     - This program allow you to input expense amount, Description, Category and Currency and store information into sqlite3 database 
-    - Summary in summary part you will have to input date in formate of "YYYY-MM-DD" program will calculate and show amount of transactions, total amount of expense per day, average expense per transaction
+    - Summary in summary part you will have to input date in formate of "YYYY-MM-DD" program will 
+      calculate and show amount of transactions, total amount of expense per day, average expense per transaction
     
