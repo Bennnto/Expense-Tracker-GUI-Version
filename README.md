@@ -6,11 +6,11 @@
 
   - How to use
     1. Download file expense_gui.py
-    2. Download module by ```python3 -m venv venv
-                             source venv/bin/activate
+    2. Download module by ```python3 -m venv venv\n
+                             source venv/bin/activate\n
                              pip3 install -r requirements.txt
                          ```
-    3. Execute python file by ```python3 expense_gui.py
+    3. Execute python file by ```python3 expense_gui.py```
 
   ## What you will get from this program
     - This program allow you to input expense amount, Description, Category and Currency and store information into sqlite3 database 
